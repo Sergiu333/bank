@@ -1,0 +1,6 @@
+micro 6
+consum 12
+imobiliar 36
+primaCasa 60
+grand 240
+imprumut 3

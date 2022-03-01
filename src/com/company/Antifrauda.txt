@@ -1,0 +1,5 @@
+MicroInvest LSW32 10
+Agro LW12 10
+EuroBan LW89 6
+InterBanc LE3 4
+StartUP UPWE1309 10

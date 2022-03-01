@@ -1,0 +1,5 @@
+1 MicroInvest Chisinau USA 14 098736567 MicroInnvest 3000000
+2 Agro Chisinau EUR 20 022938471 Agro@mail.ru 1000000
+3 EuroBan Orhei EUR 7 090876652 Europa@mail.md 30000
+4 InterBanc Soldanesti LEI 12 090871166 banc@mail.bb 12000
+5 StartUP Chisinau LEI 5 09186355 StartUP@gmail.coom 1000000
